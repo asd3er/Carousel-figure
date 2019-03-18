@@ -1,5 +1,5 @@
 # Carousel-figure
-## This is an small front end project of an carousel figure based on e-commerce web. You can see and test its function through downloading files directly or click the [link](https://htmlpreview.github.com/?https://github.com/asd3er/carousel-figure/blob/master/index.html).
+## This is an small front end project of an carousel figure based on e-commerce web. You can see and test its function through downloading files directly or click the [link](https://asd3er.github.io/carousel-figure/).
 ### Languages involve HTML5, CSS, JS.
 #### Text content:
 - 手机、配件:
